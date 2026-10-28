@@ -1,4 +1,4 @@
-<img width="653" height="505" alt="Screenshot 2026-10-28 125214" src="https://github.com/user-attachments/assets/26776bfd-015a-4b3b-8016-2a64cfad7ae5" /># DIPT_EXP_04
+
 # Geometric Transformations Using OpenCV
 
 ---
